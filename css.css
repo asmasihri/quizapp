@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    background-color: #daabb8;
+}
+
+.image {
+    width: 500px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-app {
+    color: black;
+    width: 60%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: #fff;
+    margin-top: 7vh;
+    text-align: center;
+    font-size: 3vw;
+    border-color: #30306b;
+    border-radius: 20px;
+}
+
+.videoo {
+    display: block;
+    width: 80%;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15%;
+}
